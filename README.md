@@ -1,6 +1,9 @@
 # CS50P Problems sets: Introduction to Programming with Python
 
 > This repository serves as a comprehensive collection of my solutions to the **Problem Sets (PSETs)** from **Harvard University's CS50's Introduction to Programming with Python (CS50P)** course.
+>
+> The Repository 
+[https://github.com/yjchoi81/CS50P/tree/main/CS50P-Problem%20sets]
 
 ## Certification & Achievement
 
@@ -29,7 +32,7 @@ This course provided practical experience in core Python programming principles 
 ### Download
 Download the Repository through Clone Repository or Download Zip
 
-[https://github.com/code50/216629534/tree/main/project]
+[https://github.com/yjchoi81/CS50P/tree/main/CS50P-Problem%20sets/project]
 
 ## Notice
 To run any of the solutions locally, you will need **Python 3.x** installed on your system.
