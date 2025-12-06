@@ -8,7 +8,7 @@ I successfully completed the course and earned the official certification, demon
 
 * **Certification Link:** [https://certificates.cs50.io/72b1ac26-507a-4655-86c3-b181fa243571.pdf?size=letter]
 * **Completion Date:** [December 2025]
-<img width="280" height="193" alt="image" src="https://github.com/user-attachments/assets/fcbb194d-27e0-44ad-a3af-03383d2cbf99" />
+<img width="380" height="293" alt="image" src="https://github.com/user-attachments/assets/fcbb194d-27e0-44ad-a3af-03383d2cbf99" />
 
 ## Key Skills Demonstrated
 
