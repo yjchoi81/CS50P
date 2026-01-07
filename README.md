@@ -3,7 +3,7 @@
 > This repository serves as a comprehensive collection of my solutions to the **Problem Sets (PSETs)** from **Harvard University's CS50's Introduction to Programming with Python (CS50P)** course.
 >
 > The Repository 
-[https://github.com/yjchoi81/CS50P/tree/main/CS50P-Problem%20sets]
+[[https://github.com/yjchoi81/CS50P/tree/main/CS50P-Problem%20sets]](https://github.com/yjchoi81/CS50P/tree/main/CS50P-Problem%20sets/project)
 
 ## Certification & Achievement
 
